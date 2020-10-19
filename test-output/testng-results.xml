@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30918" started-at="2020-10-19T15:59:55Z" finished-at="2020-10-19T16:00:26Z">
+  <suite name="Default suite" duration-ms="7946" started-at="2020-10-19T18:09:18Z" finished-at="2020-10-19T18:09:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30918" started-at="2020-10-19T15:59:55Z" finished-at="2020-10-19T16:00:26Z">
-      <class name="CRM.Sample">
-        <test-method status="PASS" signature="ni()[pri:0, instance:CRM.Sample@643b1d11]" name="ni" duration-ms="30844" started-at="2020-10-19T21:29:55Z" finished-at="2020-10-19T21:30:26Z">
+    <test name="Default test" duration-ms="7946" started-at="2020-10-19T18:09:18Z" finished-at="2020-10-19T18:09:26Z">
+      <class name="CRMerectTest.CreateInvoiceTest">
+        <test-method status="PASS" signature="ni()[pri:0, instance:CRMerectTest.CreateInvoiceTest@9629756]" name="ni" duration-ms="7877" started-at="2020-10-19T23:39:18Z" finished-at="2020-10-19T23:39:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ni -->
-      </class> <!-- CRM.Sample -->
+      </class> <!-- CRMerectTest.CreateInvoiceTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
